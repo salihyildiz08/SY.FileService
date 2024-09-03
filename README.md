@@ -1,5 +1,5 @@
 # Dependency
-This library was created by .Net 5.0
+This library was created by .Net 8.0
 
 ## Install
 dotnet add package SY.FileService
